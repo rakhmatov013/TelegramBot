@@ -1,0 +1,5 @@
+mongod --directoryperdb --dbpath C:\mongodb\dat\db --logpath C:\mongodb\log\mongo.log  --logappend --rest --install
+
+net start MongoDB
+
+mongo?
